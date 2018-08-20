@@ -104,7 +104,6 @@ venv.bak/
 .mypy_cache/
 
 .idea/
-MNIST_data/
 lesson_1/mnist/log/
 lesson_1/mnist/save_data/
 lesson_1/mnist/__pycache__/
